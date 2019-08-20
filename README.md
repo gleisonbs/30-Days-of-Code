@@ -1,6 +1,7 @@
 # 30-Days-of-Code
 
-Resolutions to the "30 Days of Code" challenge from HackerRank
+Resolutions to "30 Days of Code" challenges
 
 Languages:
- - Scala
+ - Scala (HackerRank: https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+ - Node.JS (NODEJSERA: https://www.nodejsera.com/nodejs-tutorial-day1-thebeginning.html)
