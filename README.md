@@ -1,6 +1,6 @@
 # 30-Days-of-Code
 
-Resolutions to "30 Days of Code" challenges
+Solutions to "30 Days of Code" challenges
 
 Languages:
  - Scala (HackerRank: https://www.hackerrank.com/domains/tutorials/30-days-of-code)
